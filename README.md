@@ -1,0 +1,1 @@
+# WiFiFirmwareUpdater_PortentaH7
